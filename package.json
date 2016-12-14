@@ -1,0 +1,11 @@
+{
+  "name": "geohashy",
+  "version": "0.0.1",
+  "description": "We geo hash mothafucka",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "author": "",
+  "license": "ISC"
+}
